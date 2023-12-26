@@ -4,7 +4,7 @@ on:
   release:
     types: [published]
 env:
-  DOCKER_HUB_NAMESPACE: laboratorioDocker
+  DOCKER_HUB_NAMESPACE: carloz13
   DOCKER_HUB_REPOSITORY: docker-course-2
   
 jobs:
